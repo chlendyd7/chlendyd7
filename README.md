@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlendyd7)](https://github.com/anuraghazra/github-readme-stats)
 
+---------------------------------------
+🙋‍♂️ Personal Info
+Choi Deok Gyeong
+Seoul National University (SNU)
+Computer Science and Engineering (CSE) 16
+hjcdg197@gmail.com
