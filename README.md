@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 # 🙋‍♂️ Personal Info
 
-* Choi Deok Gyeong
-* Seoul National University (SNU)
-* Computer Science and Engineering (CSE) 16
-* hjcdg197@gmail.com
+* Choi Du Young
+* Daegu Catholic University (CU)
+* Police administration major
+* chlendyd7@gmail.com
+
+
+# 🔨 Technology Stacks
