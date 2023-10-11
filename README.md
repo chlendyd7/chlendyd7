@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 * Police administration major
 * chlendyd7@gmail.com
 
-
+</hr>
+</hr>
 # 🔨 Technology Stacks
