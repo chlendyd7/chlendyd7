@@ -1,4 +1,4 @@
-### Wellcome To My Github👋
+# Wellcome To My Github👋
 
 <!--
 **chlendyd7/chlendyd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlendyd7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🙋‍♂️ Personal Info
+# 🙋‍♂️ Personal Info
 ---
 Choi Deok Gyeong
   Seoul National University (SNU)
