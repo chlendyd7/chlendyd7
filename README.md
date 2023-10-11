@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 * Daegu Catholic University (CU)
 * Police administration major
 * chlendyd7@gmail.com
+</br></br>
 
-</hr>
-</hr>
 # 🔨 Technology Stacks
