@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Personal Info </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I'm Choi Du yong, a steadily growing backend developer.</li><br></li><br></li>Experience: <li> 애기야가자 backend developer: 23.11.20 ~ ing</li><li> 프리랜서 fullstack developer: 23.07.01 ~ 23.11.30</li><li> 경성테크놀러지 AI Data Manager & backend developer: 22.04.20 ~ 22.12.31</li><br></li>Language/Framework: <li>Python and Django (most)</li><li> C#, Java</li><li> HTMX </li><br></li>Collaboration & Tools:</li><li> AWS: EC2, S3, Load Balancer DynamoDB, PostSQL, </li><li> Notion, Github, Jira, confluence, slack </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I'm Choi Du yong, a steadily growing backend developer.</li><br></li><br></li>Experience: <li> 애기야가자 backend developer: 23.11.20 ~ ing</li><li> 프리랜서 fullstack developer: 23.07.01 ~ 23.11.30</li><li> 경성테크놀러지 AI Data Manager & backend developer: 22.04.20 ~ 22.12.31</li><br></li>Language/Framework: <li>Django and Restframework (most)</li><li>Python(most), C#, Java</li><li> HTMX </li><br></li>Collaboration & Tools:</li><li> AWS: EC2, S3, Load Balancer DynamoDB, PostSQL, </li><li> Notion, Github, Jira, confluence, slack </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
